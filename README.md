@@ -28,6 +28,7 @@ With a background in both machine learning (Speech, NLP) and platform engineerin
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
+<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></a></code>
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/auth0/auth0-ar21.svg"></a></code>
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg"></a></code>
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></a></code>
@@ -36,6 +37,8 @@ With a background in both machine learning (Speech, NLP) and platform engineerin
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></a></code>
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/daprio/daprio-ar21.svg"></a></code>
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></a></code>
+<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
+<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></a></code>
 
 <br/><br/>
