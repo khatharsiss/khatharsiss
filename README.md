@@ -11,7 +11,7 @@
 <div>
  
 <p>
-With a background in both machine learning (Speech, NLP) and platform engineering (backend, data-eng, devops) I love sharing my passion for impact-driven-ML!
+With a background in both machine learning (Time series, NLP) and platform engineering (backend, data-eng, devops, cloud) I love sharing my passion for impact-driven-ML!
 </h4>
 </div>
 <br />
